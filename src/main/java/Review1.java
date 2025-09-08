@@ -30,7 +30,7 @@ public class Review1 {
 		String section1Q5 = "Hello";
         String section2Q5 = "World";
         System.out.print(section1Q5 + " ");
-        System.out.print(section2Q5);
+        System.out.println(section2Q5);
 	}
 
 }
